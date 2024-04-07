@@ -15,17 +15,17 @@ The hive configuration is performed with HIVE*SITE_CONF* variables (see hadoop-h
 1. From the repository root, run following command.
 
 ```
-   docker-compose up -d
+docker-compose up -d
 ```
 
 ## run hive server in CLI
 
 ```
-   docker-compose exec hive-server bash
+docker-compose exec hive-server bash
 ```
 
 ```
-   hive
+hive
 ```
 
 ```
