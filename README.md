@@ -12,7 +12,7 @@ The hive configuration is performed with HIVE*SITE_CONF* variables (see hadoop-h
    - [Docker for Mac](https://docs.docker.com/docker-for-mac/#advanced)
    - [Docker for Windows](https://docs.docker.com/docker-for-windows/#advanced)
 1. Clone this repository.
-1. From the repository root, run following command.
+1. From the repository root, run following command to setup image.
 
 ```
 docker-compose up -d
