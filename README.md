@@ -31,6 +31,12 @@ hive
 ```
 show databases;
 ```
+## Copy Files to Hive server:
+<img width="1710" alt="Screenshot 2024-04-07 at 16 56 41" src="https://github.com/rishhi-patel/docker-hive/assets/98315242/08ea72dd-dd24-43d2-a0e5-ba803436dea7">
+
+```
+docker cp [local file path]  [containerID]:/opt/
+```
 
 ## Load data into Hive:
 
